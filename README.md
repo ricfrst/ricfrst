@@ -1,1 +1,1 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricfrst&size_weight=0.5&count_weight=0.5)
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=ricfrst&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
