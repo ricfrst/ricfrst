@@ -10,7 +10,3 @@
 
 ###
 
-<a href="https://monkeytype.com/profile/rfurst">
-    <img src="https://raw.githubusercontent.com/ricfrst/ricfrst/monkeytype-readme/monkeytype-readme-lb.svg" alt="My Monkeytype profile" />
-</a>
-
