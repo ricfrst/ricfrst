@@ -1,3 +1,3 @@
-:wave: Hey! Im Rick
+:wave: Hey! Im Rick, I study CS @ Florida State!
 
 
